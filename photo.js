@@ -32,7 +32,7 @@ this.height = height;
 }//end class
 
 let photo1 = new Photo();
-console.log(photo1.toString);
+console.log(photo1.toString());
 
-let photo2 = new Photo(12,15);
-console.log(photo2.toString);
+let photo2 = new Photo(12, 15);
+console.log(photo2.toString());
